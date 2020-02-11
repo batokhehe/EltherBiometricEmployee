@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="reasonSpinnerItems">
+        <item>Izin</item>
+        <item>Alpha</item>
+        <item>Sakit</item>
+        <item>Lunas</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Elther Biometric Employee</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Masuk</string>
+    <string name="welcome">"Selamat Datang ! "</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login gagal"</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Keluar</string>
+    <string name="ip_address">IP Address</string>
+    <string name="registration">Registrasi</string>
+
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Ocr dependencies cannot be downloaded due to low device storage</string>
+    <string name="ocr_header">Click &quot;Detect Text&quot; to detect text</string>
+    <string name="read_text">Detect Text</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="ocr_success">Text read successfully</string>
+    <string name="ocr_failure">No text captured</string>
+    <string name="ocr_error">"Error reading text: %1$s"</string>
+
+    <string name="picture_button">Take picture 0/10</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="eigenfaces">Eigenfaces</string>
+    <string name="fisherfaces">Fisherfaces</string>
+    <string name="threshold_face">Face threshold:</string>
+    <string name="threshold_distance">Distance threshold:</string>
+    <string name="maximum_images">Maximum number of images:</string>
+    <string name="clear_button">Clear training set</string>
+    <string name="flip">Flip</string>
+    <string name="province">Provinsi</string>
+    <string name="nik">NIK</string>
+    <string name="name">Nama</string>
+    <string name="date">Tempat Tanggal Lahir</string>
+    <string name="time">Jenis Kelamin</string>
+    <string name="method">Alamat</string>
+    <string name="religion">Agama</string>
+    <string name="status">Status</string>
+    <string name="work">Pekerjaan</string>
+    <string name="nationality">Kewarganegaraan</string>
+    <string name="expire">Berlaku Hingga</string>
+    <string name="next">Next</string>
+    <string name="face_recognition">Face recognition</string>
+    <string name="capture">Caputre</string>
+    <string name="upload">Upload</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="tab_text_1">Hadir</string>
+    <string name="tab_text_2">Absen</string>
+    <string name="presensi">Presensi</string>
+    <string name="select_method">Pilih Metode</string>
+    <string name="company">SGP</string>
+    <string name="db_manager">DB Manager</string>
+    <string name="submit">Submit</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="division">Division</string>
+</resources>

@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "E:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk",
+    "E:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\naufal\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk NDK_APPLICATION_MK\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003dE:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\debug\\lib NDK_DEBUG\u003d1 NDEBUG\u003dnull clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\naufal\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk NDK_APPLICATION_MK\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003dE:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\debug\\lib NDK_DEBUG\u003d1 NDEBUG\u003dnull {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "face-lib-debug-x86_64": {
+      "artifactName": "face-lib",
+      "buildCommand": "C:\\Users\\naufal\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk NDK_APPLICATION_MK\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Application.mk APP_ABI\u003dx86_64 NDK_ALL_ABIS\u003dx86_64 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003dE:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\debug\\lib NDK_DEBUG\u003d1 NDEBUG\u003dnull E:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/debug/obj/local/x86_64/libface-lib.so",
+      "abi": "x86_64",
+      "output": "E:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\x86_64\\libface-lib.so"
+    }
+  }
+}

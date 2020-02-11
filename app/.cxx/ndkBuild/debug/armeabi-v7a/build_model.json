@@ -1,0 +1,68 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\Elther\\EltherBiometricEmployee",
+      "sdkFolder": "C:\\Users\\naufal\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [
+        "armeabi-v7a",
+        "x86_64",
+        "x86",
+        "arm64-v8a"
+      ],
+      "intermediatesFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\Elther\\EltherBiometricEmployee\\app",
+      "makeFile": "E:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk",
+      "buildSystem": "NDK_BUILD",
+      "compilerSettingsCacheFolder": "E:\\Elther\\EltherBiometricEmployee\\.cxx",
+      "cxxFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\naufal\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "NDK_DEBUG\u003d1",
+      "NDEBUG\u003dnull"
+    ],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "debug",
+    "soFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\debug\\lib",
+    "objFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local",
+    "jsonFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\ndkBuild\\debug",
+    "gradleBuildOutputFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\cxx\\debug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 22,
+  "cxxBuildFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a",
+  "jsonFile": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\cxx\\debug\\armeabi-v7a",
+  "objFolder": "E:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a",
+  "buildCommandFile": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\build_model.json",
+  "jsonGenerationLoggingRecordFile": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\Elther\\EltherBiometricEmployee\\app\\.cxx\\ndkBuild\\debug\\armeabi-v7a\\compile_commands.json"
+}

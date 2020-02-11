@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "E:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk",
+    "E:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Application.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\naufal\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk NDK_APPLICATION_MK\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003dE:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\release\\lib clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\naufal\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk NDK_APPLICATION_MK\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003dE:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\release\\lib {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "face-lib-release-arm64-v8a": {
+      "artifactName": "face-lib",
+      "buildCommand": "C:\\Users\\naufal\\AppData\\Local\\Android\\Sdk\\ndk\\20.1.5948944\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Android.mk NDK_APPLICATION_MK\u003dE:\\Elther\\EltherBiometricEmployee\\app\\src\\main\\cpp\\Application.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDK_DEBUG\u003d0 APP_PLATFORM\u003dandroid-22 NDK_OUT\u003dE:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/release/obj NDK_LIBS_OUT\u003dE:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\release\\lib E:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/release/obj/local/arm64-v8a/libface-lib.so",
+      "abi": "arm64-v8a",
+      "output": "E:\\Elther\\EltherBiometricEmployee\\app\\build\\intermediates\\ndkBuild\\release\\obj\\local\\arm64-v8a\\libface-lib.so"
+    }
+  }
+}

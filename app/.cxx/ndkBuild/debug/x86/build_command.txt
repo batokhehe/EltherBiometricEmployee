@@ -1,0 +1,19 @@
+Executable : C:\Users\naufal\AppData\Local\Android\Sdk\ndk\20.1.5948944\ndk-build.cmd
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=E:\Elther\EltherBiometricEmployee\app\src\main\cpp\Android.mk
+NDK_APPLICATION_MK=E:\Elther\EltherBiometricEmployee\app\src\main\cpp\Application.mk
+APP_ABI=x86
+NDK_ALL_ABIS=x86
+NDK_DEBUG=1
+APP_PLATFORM=android-23
+NDK_OUT=E:/Elther/EltherBiometricEmployee/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=E:\Elther\EltherBiometricEmployee\app\build\intermediates\ndkBuild\debug\lib
+NDK_DEBUG=1
+NDEBUG=null
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
